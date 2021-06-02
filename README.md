@@ -1,5 +1,5 @@
 # react-training-ssi
-Chat App
+Chat App using Node React Typescript
 
 How to Run on Local
 
